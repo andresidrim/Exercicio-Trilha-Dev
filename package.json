@@ -1,0 +1,28 @@
+{
+  "name": "trilha-dev",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "typescript": "^4.8.4"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20",
+    "ts-node": "^10.9.1"
+  },
+  "scripts": {
+    "dev": "nodemon src/app.ts",
+    "dev2": "nodemon src/app2.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Escritorio-de-Engenharia/trilha-dev.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Escritorio-de-Engenharia/trilha-dev/issues"
+  },
+  "homepage": "https://github.com/Escritorio-de-Engenharia/trilha-dev#readme"
+}
